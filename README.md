@@ -1,2 +1,1 @@
-# The place to develop a new linux GUI based on Xfce among other things.
-Coming Soon, I hope.
+# As the name says, rolling and testing Apollo for 1st version release, this is for Apollo default.
