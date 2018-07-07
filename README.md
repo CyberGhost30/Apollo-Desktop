@@ -1,5 +1,2 @@
-# As the name says, rolling and testing Apollo for 1st version release, this is for Apollo default.
-Apollo Default is bare bone DE with a blank dark orange desktop (or maybe it own default wallpaper?) with windows 3.11 like behaviors: minimize programs turn into icons on the desktop (no putting files on the desktop at all, but can still put files in the desktop folder which both orbits will make use of) but with a very small bar at the bottom right side of the screen containing notification icons, time and date, and power options. Made to feel like openbox / fluxbox DE’s and good for really old computers / laptops.
-
-The Windows 3.11 like behavior only applies to Apollo Default, when a orbit is applied, then the ability to put icons on the desktop is restored. Same goes for minimizing a active folder/app, on Apollo Default, it becomes an icon on the desktop until it is double-clicked or right click and select restore or maximize while on a orbit, normal behavior is restored, and behaves the same way both xfce and Unity2d/3D does.
-Also Appollo Default is 2D regardless of processor. No major 3D graphics at all.
+# As the name says, rolling and testing Apollo for 1st version release, this is for Apollo Book.
+A completely remade version of Unity 2D/3D as a QT based clamp on oribit for Apollo. Can run in 2D mode (By default, 32bit and 64bit), 3D mode is 64bit only.
