@@ -1,3 +1,0 @@
-# The place to develop a new linux GUI based on Xfce among other things.
-Hopfully coming soon.
-The Source code branch contains source code from other projects, will be deleted when Rolling is completed...
